@@ -1,4 +1,4 @@
-//Function Expression
+//Function Expressions
 let divide=function div(a,b)
 {
     return a/b;
