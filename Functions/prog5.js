@@ -1,5 +1,5 @@
 //Function Exppresions
-let subtract=function sub(a,b)
+let subtract=function (a,b)
 {
     return a-b;
 }
