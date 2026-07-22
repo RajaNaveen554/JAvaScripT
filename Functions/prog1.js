@@ -8,6 +8,7 @@ greet();
 function greet()
 {
     console.log("Hello");
+    console.log("world");
 }
 greet();
 greet();
